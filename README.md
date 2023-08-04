@@ -8,7 +8,7 @@
 
 ## priview
 
-![Priview](https://vizeeart/RJokes/assets/kucing-lucu.gif)
+![Priview](https://github.com/vizeeart/RJokes/blob/main/assets/priview.gif)
 
 
 # Info
