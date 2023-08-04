@@ -3,9 +3,13 @@
 <p align="center">
   <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
     <img alt="vizeeart/RJokes" height="60%" width="100%" src="assets/00.jpg"/>
-    <img alt="vizeeart/RJokes" height="60%" width="100%" src="assets/priview.gif"/>
   </a>
 </p>
+
+## priview
+
+![Priview](https://vizeeart/RJokes/assets/kucing-lucu.gif)
+
 
 # Info
 
