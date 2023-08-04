@@ -3,9 +3,9 @@
 <p align="center">
   <a name="top" href="#octocat-hi-there-thanks-for-visiting-">
     <img alt="vizeeart/RJokes" height="60%" width="100%" src="assets/00.jpg"/>
-    <video width="60%" height="100%" controls>
-      <source src="asstes/priview.mp4" type="video/mp4">
-    </video>
+
+    [![Watch the video](https://img.youtube.com/vi/APOPm01BVrk/hqdefault.jpg)](https://github.com/vizeeart/RJokes/blob/main/assets/priview.mp4)
+
   </a>
 </p>
 
