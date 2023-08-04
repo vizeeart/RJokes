@@ -53,7 +53,7 @@
 
 - ```bash
   $ apt install ruby git -y
-  & gem install tty-prompt whirly
+  $ gem install tty-prompt whirly
   ```
 
 ## Installation Project
