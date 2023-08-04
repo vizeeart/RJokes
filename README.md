@@ -68,4 +68,4 @@
 
 - ```bash
   $ ruby jokes.rb
-  ```⏎
+  ```
